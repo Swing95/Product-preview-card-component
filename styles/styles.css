@@ -1,5 +1,10 @@
-body {
+* {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
   background-color: hsl(30, 38%, 92%);
   font-family: "Montserrat";
 }
@@ -13,16 +18,23 @@ main {
 
 #card {
   display: flex;
-  width: 480px;
 }
 
 img {
-  width: 240px;
+  display: block;
+  height: 100%;
+  width: 100%;
   border-radius: 6px 0 0 6px;
 }
 
 #text {
   padding: 0 1rem 0 1rem;
+  max-width: 50%;
+}
+
+#title {
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
 }
 
 p {
