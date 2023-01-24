@@ -32,7 +32,6 @@ main {
 
 #card {
   display: flex;
-  overflow: hidden;
 }
 
 img {
