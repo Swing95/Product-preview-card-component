@@ -10,4 +10,4 @@ Your users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-You can see the created project here : https://helpful-custard-fb11c0.netlify.app/
+You can see the created project here : https://phenomenal-choux-e73879.netlify.app/
